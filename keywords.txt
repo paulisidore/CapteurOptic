@@ -1,0 +1,3 @@
+CapteurOptic    KEYWORD1
+GetEtat KEYWORD2
+
