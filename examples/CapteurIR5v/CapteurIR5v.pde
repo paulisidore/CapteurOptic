@@ -9,6 +9,12 @@
   100ms pour le temps de présence minimal, 
   1 pour auriser une resistance pullup sur le port
 */
+/*
+ * Connexion capteur Infra Rouge E18-D80NK.
+ * Cable Marron: VCC 5V 
+ * Cable Blue: GND
+ * Cable Noir: Signal Retour a conntecter sur Arduino avec Resistance
+ */
 CapteurOptic capteur(5,0,1,100,1); 
 int DetectionPrec=0;
 

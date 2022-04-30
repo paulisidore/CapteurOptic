@@ -18,7 +18,7 @@ class CapteurOptic
     int _pinInput;
     int BOUT_ON;
     int BOUT_OFF;
-    int DUREE_PRESENCE_BOUT;
+    unsigned long DUREE_PRESENCE_BOUT;
     int _INPUT;
     unsigned long last_detectTime=0;    
 };

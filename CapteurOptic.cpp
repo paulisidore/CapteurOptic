@@ -3,6 +3,12 @@
   Created by Paul Isidore A. NIAMIE, March 14, 2022.
   Released into the public domain.
 */
+/*
+ * Connexion capteur Infra Rouge E18-D80NK.
+ * Cable Marron: VCC 5V 
+ * Cable Blue: GND
+ * Cable Noir: Signal Retour a conntecter sur Arduino avec Resistance
+ */
 
 #include "Arduino.h"
 #include "CapteurOptic.h"
